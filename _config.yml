@@ -1,6 +1,6 @@
 name: veronikaz
 favicon: null
-layout_spectrum: 0.9741807263344526
+layout_spectrum: 1
 typography_spectrum: 0.2583354851230979
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.9813242999371141
-  lightness: 0.329130110796541
-  saturation: 0.2462747637182474
-  rhythmicContrast: 0.1871429041493684
+    - '#012191'
+    - '#fdfdfd'
+    - '#8faad7'
+    - '#1f68d0'
+    - '#535852'
+  brandStrength: 0.625
+  lightness: 0.375
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
