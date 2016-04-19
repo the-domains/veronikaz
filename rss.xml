@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[veronikaz]]></title>
+        <description><![CDATA[veronikaz]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 19 Apr 2016 09:14:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af9c5d90-4a6a-4a2c-9dd6-e4bdfc389397.jpg">]]></description>
+            <link>undefinedeverydays-sailing/index.html</link>
+            <guid isPermaLink="false">ded1fea9-34ce-48bd-88d9-dde5f3ddadff</guid>
+            <pubDate>Tue, 19 Apr 2016 09:13:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
